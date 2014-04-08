@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#scale {
+    margin-top: 20px;
+}
+
+a {
+    display: inline-block;
+    background-color: #ccc;
+    color: #000;
+    text-align: center;
+    padding: 10px 0;
+    width: 30px;
+    margin-bottom: 5px;
+    font-family: monospace;
+    box-sizing: border-box;
+}
+
+#chord a {
+    width: auto;
+    min-width: 30px;
+    padding: 10px 10px;
+}
+
+#related p{
+    font-family: monospace;
+    margin-top: 15px;
+}
